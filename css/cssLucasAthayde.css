@@ -1,0 +1,31 @@
+.text-azul {
+  color: #000041 !important;
+}
+.text-verde {
+  color: rgb(0, 204, 10) !important;
+}
+.p-6 {
+  padding: 5rem !important;
+}
+.mt-6 {
+  margin-top: 6rem !important;
+}
+.mt-7 {
+  margin-top: 12rem !important;
+}
+.bg-azul {
+  background-color: #000041;
+}
+.container-card {
+  height: 900px;
+  width: 100%;
+}
+.btn-xl {
+  padding: 0.5rem 1rem;
+  font-size: 1.5rem;
+  border-radius: 10rem;
+}
+.btn-outline-strongblue {
+  color: #00076d;
+  border-color: #00076d;
+}
